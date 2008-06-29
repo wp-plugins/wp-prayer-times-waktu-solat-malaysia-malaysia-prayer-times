@@ -34,7 +34,7 @@ No
 -
 
 == Screenshots ==
-http://img2.freeimagehosting.net/uploads/0313fbdf93.png
+<img src="http://img2.freeimagehosting.net/uploads/0313fbdf93.png"></img>
 
 == Usage ==
 -
